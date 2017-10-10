@@ -24,12 +24,6 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="384" translatesAutoresizingMaskIntoConstraints="NO" text="Weight" fixedFrame="YES">
-                                <rect key="frame" x="34" y="205" width="106" height="21"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="387" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
                                 <rect key="frame" x="34" y="405" width="344" height="44"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
@@ -41,45 +35,26 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" keyboardType="decimalPad"/>
                             </textField>
-                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" minimumFontSize="17" id="389" translatesAutoresizingMaskIntoConstraints="NO" placeholder="Weight in kilogram" fixedFrame="YES">
-                                <rect key="frame" x="34" y="240" width="344" height="30"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <textInputTraits key="textInputTraits" keyboardType="decimalPad"/>
-                            </textField>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="390" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
                                 <rect key="frame" x="120" y="291" width="173" height="30"/>
                                 <state key="normal" title="Calculate BMI">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="384" translatesAutoresizingMaskIntoConstraints="NO" text="Weight" fixedFrame="YES">
+                                <rect key="frame" x="34" y="205" width="106" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" minimumFontSize="17" id="389" translatesAutoresizingMaskIntoConstraints="NO" placeholder="Weight in kilogram" fixedFrame="YES">
+                                <rect key="frame" x="43" y="264" width="344" height="30"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" keyboardType="decimalPad"/>
+                            </textField>
                         </subviews>
-                        <variation key="default">
-                            <mask key="subviews">
-                                <exclude reference="193"/>
-                                <exclude reference="384"/>
-                                <exclude reference="387"/>
-                                <exclude reference="388"/>
-                                <exclude reference="389"/>
-                                <exclude reference="390"/>
-                            </mask>
-                        </variation>
-                        <variation key="heightClass=regular-widthClass=compact">
-                            <mask key="subviews">
-                                <include reference="193"/>
-                                <include reference="384"/>
-                                <include reference="387"/>
-                                <include reference="388"/>
-                                <include reference="389"/>
-                                <include reference="390"/>
-                            </mask>
-                        </variation>
                     </view>
-                    <connections>
-                        <outlet property="heightTextField" destination="388" id="name-outlet-388"/>
-                        <outlet property="weightTextField" destination="389" id="name-outlet-389"/>
-                        <outlet property="calculateButton" destination="390" id="name-outlet-390"/>
-                        <outlet property="bmiLabel" destination="387" id="name-outlet-387"/>
-                    </connections>
+                    <connections/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
