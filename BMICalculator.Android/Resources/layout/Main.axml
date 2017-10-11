@@ -12,7 +12,8 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/heightEditText" />
+        android:id="@+id/heightEditText"
+        android:inputType="numberDecimal" />
     <TextView
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:layout_width="match_parent"
@@ -22,7 +23,8 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/weightEditText" />
+        android:id="@+id/weightEditText"
+        android:inputType="numberDecimal" />
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
