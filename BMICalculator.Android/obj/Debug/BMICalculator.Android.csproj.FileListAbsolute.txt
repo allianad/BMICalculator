@@ -1,0 +1,1 @@
+/Users/allianad1/Desktop/repos/BMICalculator/BMICalculator/BMICalculator.Android/obj/Debug/BMICalculator.Android.csproj.CoreCompileInputs.cache
