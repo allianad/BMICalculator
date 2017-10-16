@@ -1,10 +1,5 @@
 ﻿<Properties StartupConfiguration="{DDC02438-7518-403E-B533-D75E0CC15D88}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../BMIAndroid/BMIAndroid/MainActivity.cs">
-    <Files>
-      <File FileName="ViewController.cs" Line="19" Column="13" />
-      <File FileName="../BMIAndroid/BMIAndroid/MainActivity.cs" Line="14" Column="2" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
