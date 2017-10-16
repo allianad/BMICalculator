@@ -1,8 +1,8 @@
-﻿<Properties StartupConfiguration="{F6CB56C8-5D07-4C94-A480-D6A216DC5912}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BMIAndroid/MainActivity.cs">
+﻿<Properties StartupConfiguration="{DDC02438-7518-403E-B533-D75E0CC15D88}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../BMIAndroid/BMIAndroid/MainActivity.cs">
     <Files>
       <File FileName="ViewController.cs" Line="19" Column="13" />
-      <File FileName="BMIAndroid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="../BMIAndroid/BMIAndroid/MainActivity.cs" Line="14" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
@@ -10,6 +10,7 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BMIAndroid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_5X_API_24" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.BMICalculator PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.52495961-40EE-46E5-B2A8-C374FE210348" />
 </Properties>

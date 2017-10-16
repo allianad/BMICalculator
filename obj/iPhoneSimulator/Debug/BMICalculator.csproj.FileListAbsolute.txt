@@ -3,3 +3,7 @@
 /Users/allianad1/Desktop/repos/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
 /Users/allianad1/Desktop/repos/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/optimized/
 /Users/allianad1/Desktop/repos/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/BMICalculator.csproj.CoreCompileInputs.cache
+/Users/allianad1/Desktop/repos/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/allianad1/Desktop/repos/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/allianad1/Desktop/repos/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/allianad1/Desktop/repos/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
