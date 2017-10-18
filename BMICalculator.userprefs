@@ -1,5 +1,12 @@
-﻿<Properties StartupConfiguration="{DDC02438-7518-403E-B533-D75E0CC15D88}|Default">
-  <MonoDevelop.Ide.Workbench />
+﻿<Properties StartupConfiguration="{F6CB56C8-5D07-4C94-A480-D6A216DC5912}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DetailViewController.cs">
+    <Files>
+      <File FileName="Main.storyboard" />
+      <File FileName="ViewController.cs" Line="45" Column="66" />
+      <File FileName="Main.cs" Line="16" Column="1" />
+      <File FileName="DetailViewController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
