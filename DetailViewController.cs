@@ -25,15 +25,15 @@ namespace BMICalculator
             string result = String.Empty;
 
             if (bmi <= 16)
-                result = "very low";
+                result = "Very Low";
             else if (bmi < 18.5)
-                result = "low";
+                result = "Low";
             else if (bmi < 25)
-                result = "normal";
+                result = "Normal";
             else if (bmi < 30)
-                result = "high";
+                result = "High";
             else
-                result = "too hight";
+                result = "Too Hight";
 
             resultLabel.Text = result;
         }

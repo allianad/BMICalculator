@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{F6CB56C8-5D07-4C94-A480-D6A216DC5912}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Main.storyboard">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Main.cs">
     <Files>
       <File FileName="Main.storyboard" />
-      <File FileName="ViewController.cs" Line="54" Column="1" />
-      <File FileName="Main.cs" Line="10" Column="92" />
+      <File FileName="ViewController.cs" Line="21" Column="10" />
+      <File FileName="Main.cs" Line="16" Column="1" />
       <File FileName="DetailViewController.cs" Line="38" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>

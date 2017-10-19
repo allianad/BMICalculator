@@ -33,10 +33,6 @@ namespace BMICalculator
         [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UITextField weightTextField { get; set; }
 
-        [Action ("DetailsButton_TouchUpInside:")]
-        [GeneratedCode ("iOS Designer", "1.0")]
-        partial void DetailsButton_TouchUpInside (UIKit.UIButton sender);
-
         void ReleaseDesignerOutlets ()
         {
             if (bmiLabel != null) {
